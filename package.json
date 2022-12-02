@@ -1,5 +1,5 @@
 {
-  "name": "three",
+  "name": "parcel-tpl",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,10 +10,8 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "three": "^0.144.0"
-  },
+  "dependencies": {},
   "devDependencies": {
-    "parcel": "^2.7.0"
+    "parcel": "^2.8.0"
   }
 }
